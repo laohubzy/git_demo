@@ -1,4 +1,4 @@
 console.log('first commit')
-console.log('master commit  change')
-const a = 2
-console.log('master commit  change again')
+console.log('master commit')
+const a = 23
+const b = "commit 2"
